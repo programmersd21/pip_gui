@@ -12,7 +12,7 @@
 
 ```bash
 # Clone project
-git clone https://github.com/programmersd/pip_gui.git
+git clone https://github.com/programmersd21/pip_gui.git
 cd pip_gui/src-tauri
 
 # Frontend dependencies

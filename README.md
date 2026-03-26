@@ -21,7 +21,7 @@ This project is still under **development**. Though the project is being worked 
 
 ### Install
 
-Download pre-built installers from [Releases](https://github.com/programmersd/pip_gui/releases):
+Download pre-built installers from [Releases](https://github.com/programmersd21/pip_gui/releases):
 
 - **Windows**: `pip_gui-installer.msi`
 - **macOS**: `pip_gui.dmg`
@@ -216,7 +216,7 @@ MIT
 
 ## Support
 
-Issues and feature requests: [GitHub Issues](https://github.com/programmersd/pip_gui/issues)
+Issues and feature requests: [GitHub Issues](https://github.com/programmersd21/pip_gui/issues)
 
 ---
 
